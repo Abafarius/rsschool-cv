@@ -16,7 +16,7 @@ My goal is to become a strong programmer to make really cool projects that could
 def multiply(a, b):
     return a * b
 ```
-## Work Expirience:
+## Work Experience:
 I was making a site for two groups for industrial internship. Overall I made 3 sites. I was using HTML, CSS. 
 Source code: https://github.com/Abafarius/Industrial-Internship-2021
 ## Education:
