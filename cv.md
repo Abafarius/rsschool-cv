@@ -1,4 +1,4 @@
-![Madoka Ayukawa] (C:\Users\Abafarus\Desktop\Pic's\cv_avatar.jpg "cv_avatar")
+![cv_avatar](https://user-images.githubusercontent.com/80694393/189827260-58c9aa48-ff39-4080-8df5-127bd6be5ecc.jpg)
 # Galymzhan Yessimbek
 ## Contacts:
 * Phone: 8 775 521 5524
@@ -19,7 +19,7 @@ def multiply(a, b):
 ```
 ## Work Experience:
 I was making a site for two groups for industrial internship. Overall I made 3 sites. I was using HTML, CSS. 
-Source code: https://github.com/Abafarius/Industrial-Internship-2021
+[Source code](https://github.com/Abafarius/Industrial-Internship-2021 "link to my work")
 ## Education:
 * High School №20 at Kostanay city, Kazakhstan (2007-2019)
 * Bachelor of physics (Cyberphysics) Kazakh National University (2019-2023)
