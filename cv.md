@@ -12,6 +12,8 @@ My goal is to become a strong programmer to make really cool projects that could
 * Microsoft Visual Studio
 * Unity
 * C++ (just basics)
+* HTML
+* CSS
 ## Code examples:
 ```
 def multiply(a, b):
