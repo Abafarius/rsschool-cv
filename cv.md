@@ -1,3 +1,4 @@
+![Madoka Ayukawa] (C:\Users\Abafarus\Desktop\Pic's\cv_avatar.jpg "cv_avatar")
 # Galymzhan Yessimbek
 ## Contacts:
 * Phone: 8 775 521 5524
