@@ -1,2 +1,2 @@
 # rsschool-cv
-Here is my CV 
+https://Abafarius.github.io/rsschool-cv/cv
