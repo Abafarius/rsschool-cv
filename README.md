@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Abafarius/rsschool-cv/tree/rsschool-cv-html
+https://Abafarius.github.io/rsschool-cv/
