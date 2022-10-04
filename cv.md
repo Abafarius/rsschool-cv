@@ -5,7 +5,7 @@
 * e-mail: gal.esm49@gmail.com
 * discord: Abafar (@Abafarius)
 ## About me:
-My goal is to become a strong programmer to make really cool projects that could help someone in their purposes. Now my priority is study and learn as mush as I can. I want learn git, JS (React) and many other techs connected with frontend. I am open to any studies I am flexible and stress resistant. I was participating on hackathon and won it. So I can work in teams. 
+My goal is to become a strong programmer to make really cool projects that could help someone in their purposes. Now my priority is study and learn as mush as I can. I want learn git, JS (React, Angular) and many other techs connected with frontend. I am open to any studies I am flexible and stress resistant. I was participating on hackathon and won it. So I can work in teams. 
 ## Skills:
 * Python (pandas, matplotlib, seaborn, numpy, telebot)
 * Pycharm
@@ -26,6 +26,6 @@ I was making a site for two groups for industrial internship. Overall I made 3 s
 * High School №20 at Kostanay city, Kazakhstan (2007-2019)
 * Bachelor of physics (Cyberphysics) Kazakh National University (2019-2023)
 ## Languages:
-* English (Intermediate). I talk to my friends everyday, I read articles and watch videos on english
+* English (Intermediate). I talk to my friends everyday, I read articles and watch videos in english
 * Russian (Native)
 * Kazakh (Advanced)
