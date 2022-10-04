@@ -1,4 +1,5 @@
-![cv_avatar](https://user-images.githubusercontent.com/80694393/193822991-74ec5d50-0a86-4b2f-b35f-e8d38c22f3c3.jpg)
+![cv_avatar](https://user-images.githubusercontent.com/80694393/193823673-668f04e5-f9e1-48cb-a750-5b1725d5754c.jpg)
+
 # Galymzhan Yessimbek
 ## Contacts:
 * Phone: 8 775 521 5524
